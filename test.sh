@@ -1,3 +1,3 @@
 date 
 cal
-echo "Finished !!! "
+echo "Finished "
